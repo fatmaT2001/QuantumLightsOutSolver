@@ -2,17 +2,10 @@
 QuantumLightsOutSolver is a Python project that uses Grover's algorithm in quantum computing to solve the Lights Out puzzle. It demonstrates setting up quantum circuits, applying Grover's algorithm for solution finding, and analyzes the impact of quantum noise, highlighting quantum problem-solving techniques.
 
 د
-Certainly! I'll draft a complete README file content for the "QuantumLightsOutSolver" project based on the information from the "LightsOutPuzzle.ipynb" notebook. Here it is:
-
----
-
-# QuantumLightsOutSolver
-
-QuantumLightsOutSolver is a Python project that uses Grover's algorithm in quantum computing to solve the Lights Out puzzle. This project showcases setting up quantum circuits, applying Grover's algorithm for solution finding, and analyzing the impact of quantum noise on solutions, highlighting advanced quantum problem-solving techniques.
 
 ## Introduction
 
-The Lights Out puzzle is a game consisting of a grid of lights which can be either on or off. The goal is to switch all the lights off by pressing them, but pressing a light also toggles the state of adjacent lights. This project explores the solution to this puzzle using quantum computing, specifically leveraging Grover's algorithm.
+The Lights Out puzzle is a game consisting of a grid of lights that can be either on or off. The goal is to switch all the lights off by pressing them, but pressing a light also toggles the state of adjacent lights. This project explores the solution to this puzzle using quantum computing, specifically leveraging Grover's algorithm.
 
 ## Dependencies
 
